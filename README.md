@@ -3,11 +3,6 @@ SVG Logos
 #### A curated collection of SVG logos for developers/DevOps/geeks
 All the logos are optimized (removed duplicated paths / excessive grouping / empty defs, linting, etc).
 
-[View All on svgporn.com](http://svgporn.com)
-
-## Contributing
-Since I optimize all the files manually I won't accept pull requests with new logos.
-Please add your requests in the issues preferably with links to the vector files.
 
 ## Tips for SVGs
 * Always convert borders to paths. They use a fixed size and behave strangely when resized.
